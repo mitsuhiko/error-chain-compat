@@ -1,0 +1,13 @@
+[package]
+name = "error-chain-compat-011"
+version = "0.1.0"
+authors = ["Armin Ronacher <armin.ronacher@active-4.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/mitsuhiko/error-chain-compat"
+description = """
+Exports the error chain 0.11 types.
+"""
+
+[dependencies]
+error-chain = "0.11"
